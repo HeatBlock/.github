@@ -1,1 +1,1 @@
-Things Related to mcstatus.js.org
+Things Related to mcstatus.is-a.dev
